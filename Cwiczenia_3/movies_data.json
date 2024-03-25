@@ -1,0 +1,702 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "ranking": "1",
+        "ocena": "9.3",
+        "rok": "1994",
+        "rotten_tomatoes_score": "89"
+    },
+    {
+        "title": "The Godfather",
+        "ranking": "2",
+        "ocena": "9.2",
+        "rok": "1972",
+        "rotten_tomatoes_score": "97"
+    },
+    {
+        "title": "The Dark Knight",
+        "ranking": "3",
+        "ocena": "9.0",
+        "rok": "2008",
+        "rotten_tomatoes_score": "94"
+    },
+    {
+        "title": "The Godfather Part II",
+        "ranking": "4",
+        "ocena": "9.0",
+        "rok": "1974",
+        "rotten_tomatoes_score": "96"
+    },
+    {
+        "title": "12 Angry Men",
+        "ranking": "5",
+        "ocena": "9.0",
+        "rok": "1957",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "Schindler's List",
+        "ranking": "6",
+        "ocena": "9.0",
+        "rok": "1993",
+        "rotten_tomatoes_score": "98"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "ranking": "7",
+        "ocena": "9.0",
+        "rok": "2003",
+        "rotten_tomatoes_score": "94"
+    },
+    {
+        "title": "Pulp Fiction",
+        "ranking": "8",
+        "ocena": "8.9",
+        "rok": "1994",
+        "rotten_tomatoes_score": "92"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "ranking": "9",
+        "ocena": "8.9",
+        "rok": "2001",
+        "rotten_tomatoes_score": "91"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "ranking": "10",
+        "ocena": "8.8",
+        "rok": "1966",
+        "rotten_tomatoes_score": null
+    },
+    {
+        "title": "Forrest Gump",
+        "ranking": "11",
+        "ocena": "8.8",
+        "rok": "1994",
+        "rotten_tomatoes_score": "76"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "ranking": "12",
+        "ocena": "8.8",
+        "rok": "2002",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "Fight Club",
+        "ranking": "13",
+        "ocena": "8.8",
+        "rok": "1999",
+        "rotten_tomatoes_score": "80"
+    },
+    {
+        "title": "Inception",
+        "ranking": "14",
+        "ocena": "8.8",
+        "rok": "2010",
+        "rotten_tomatoes_score": "87"
+    },
+    {
+        "title": "Dune: Part Two",
+        "ranking": "15",
+        "ocena": "8.8",
+        "rok": "2024",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "ranking": "16",
+        "ocena": "8.7",
+        "rok": "1980",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "The Matrix",
+        "ranking": "17",
+        "ocena": "8.7",
+        "rok": "1999",
+        "rotten_tomatoes_score": "83"
+    },
+    {
+        "title": "Goodfellas",
+        "ranking": "18",
+        "ocena": "8.7",
+        "rok": "1990",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "ranking": "19",
+        "ocena": "8.7",
+        "rok": "1975",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "Se7en",
+        "ranking": "20",
+        "ocena": "8.6",
+        "rok": "1995",
+        "rotten_tomatoes_score": "83"
+    },
+    {
+        "title": "Interstellar",
+        "ranking": "21",
+        "ocena": "8.7",
+        "rok": "2014",
+        "rotten_tomatoes_score": "73"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "ranking": "22",
+        "ocena": "8.6",
+        "rok": "1946",
+        "rotten_tomatoes_score": "94"
+    },
+    {
+        "title": "Seven Samurai",
+        "ranking": "23",
+        "ocena": "8.6",
+        "rok": "1954",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "ranking": "24",
+        "ocena": "8.6",
+        "rok": "1991",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "ranking": "25",
+        "ocena": "8.6",
+        "rok": "1998",
+        "rotten_tomatoes_score": "94"
+    },
+    {
+        "title": "City of God",
+        "ranking": "26",
+        "ocena": "8.6",
+        "rok": "2002",
+        "rotten_tomatoes_score": "91"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "ranking": "27",
+        "ocena": "8.6",
+        "rok": "1997",
+        "rotten_tomatoes_score": "81"
+    },
+    {
+        "title": "The Green Mile",
+        "ranking": "28",
+        "ocena": "8.6",
+        "rok": "1999",
+        "rotten_tomatoes_score": "79"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "ranking": "29",
+        "ocena": "8.6",
+        "rok": "1991",
+        "rotten_tomatoes_score": "91"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "ranking": "30",
+        "ocena": "8.6",
+        "rok": "1977",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "Back to the Future",
+        "ranking": "31",
+        "ocena": "8.5",
+        "rok": "1985",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "Spirited Away",
+        "ranking": "32",
+        "ocena": "8.6",
+        "rok": "2001",
+        "rotten_tomatoes_score": "96"
+    },
+    {
+        "title": "The Pianist",
+        "ranking": "33",
+        "ocena": "8.5",
+        "rok": "2002",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "Parasite",
+        "ranking": "34",
+        "ocena": "8.5",
+        "rok": "2019",
+        "rotten_tomatoes_score": "99"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "ranking": "35",
+        "ocena": "8.6",
+        "rok": "2023",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "Psycho",
+        "ranking": "36",
+        "ocena": "8.5",
+        "rok": "1960",
+        "rotten_tomatoes_score": "97"
+    },
+    {
+        "title": "Gladiator",
+        "ranking": "37",
+        "ocena": "8.5",
+        "rok": "2000",
+        "rotten_tomatoes_score": "79"
+    },
+    {
+        "title": "The Lion King",
+        "ranking": "38",
+        "ocena": "8.5",
+        "rok": "1994",
+        "rotten_tomatoes_score": ""
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "ranking": "39",
+        "ocena": "8.5",
+        "rok": "1994",
+        "rotten_tomatoes_score": "74"
+    },
+    {
+        "title": "The Departed",
+        "ranking": "40",
+        "ocena": "8.5",
+        "rok": "2006",
+        "rotten_tomatoes_score": "91"
+    },
+    {
+        "title": "American History X",
+        "ranking": "41",
+        "ocena": "8.5",
+        "rok": "1998",
+        "rotten_tomatoes_score": "84"
+    },
+    {
+        "title": "Whiplash",
+        "ranking": "42",
+        "ocena": "8.5",
+        "rok": "2014",
+        "rotten_tomatoes_score": "94"
+    },
+    {
+        "title": "The Prestige",
+        "ranking": "43",
+        "ocena": "8.5",
+        "rok": "2006",
+        "rotten_tomatoes_score": "77"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "ranking": "44",
+        "ocena": "8.5",
+        "rok": "1988",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "Harakiri",
+        "ranking": "45",
+        "ocena": "8.6",
+        "rok": "1962",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "The Usual Suspects",
+        "ranking": "46",
+        "ocena": "8.5",
+        "rok": "1995",
+        "rotten_tomatoes_score": "88"
+    },
+    {
+        "title": "Casablanca",
+        "ranking": "47",
+        "ocena": "8.5",
+        "rok": "1942",
+        "rotten_tomatoes_score": "99"
+    },
+    {
+        "title": "The Intouchables",
+        "ranking": "48",
+        "ocena": "8.5",
+        "rok": "2011",
+        "rotten_tomatoes_score": "76"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "ranking": "49",
+        "ocena": "8.5",
+        "rok": "1988",
+        "rotten_tomatoes_score": "90"
+    },
+    {
+        "title": "Modern Times",
+        "ranking": "50",
+        "ocena": "8.5",
+        "rok": "1936",
+        "rotten_tomatoes_score": "98"
+    },
+    {
+        "title": "Rear Window",
+        "ranking": "51",
+        "ocena": "8.5",
+        "rok": "1954",
+        "rotten_tomatoes_score": "98"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "ranking": "52",
+        "ocena": "8.5",
+        "rok": "1968",
+        "rotten_tomatoes_score": "96"
+    },
+    {
+        "title": "Alien",
+        "ranking": "53",
+        "ocena": "8.5",
+        "rok": "1979",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "City Lights",
+        "ranking": "54",
+        "ocena": "8.5",
+        "rok": "1931",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "Apocalypse Now",
+        "ranking": "55",
+        "ocena": "8.4",
+        "rok": "1979",
+        "rotten_tomatoes_score": "97"
+    },
+    {
+        "title": "Django Unchained",
+        "ranking": "56",
+        "ocena": "8.5",
+        "rok": "2012",
+        "rotten_tomatoes_score": "87"
+    },
+    {
+        "title": "12th Fail",
+        "ranking": "57",
+        "ocena": "9.0",
+        "rok": "2023",
+        "rotten_tomatoes_score": null
+    },
+    {
+        "title": "Memento",
+        "ranking": "58",
+        "ocena": "8.4",
+        "rok": "2000",
+        "rotten_tomatoes_score": "94"
+    },
+    {
+        "title": "WALL\u00b7E",
+        "ranking": "59",
+        "ocena": "8.4",
+        "rok": "2008",
+        "rotten_tomatoes_score": "95"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "ranking": "60",
+        "ocena": "8.4",
+        "rok": "1981",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "The Lives of Others",
+        "ranking": "61",
+        "ocena": "8.4",
+        "rok": "2006",
+        "rotten_tomatoes_score": "92"
+    },
+    {
+        "title": "Sunset Blvd.",
+        "ranking": "62",
+        "ocena": "8.4",
+        "rok": "1950",
+        "rotten_tomatoes_score": "98"
+    },
+    {
+        "title": "Paths of Glory",
+        "ranking": "63",
+        "ocena": "8.4",
+        "rok": "1957",
+        "rotten_tomatoes_score": "96"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "ranking": "64",
+        "ocena": "8.4",
+        "rok": "2018",
+        "rotten_tomatoes_score": "85"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "ranking": "65",
+        "ocena": "8.4",
+        "rok": "2018",
+        "rotten_tomatoes_score": "97"
+    },
+    {
+        "title": "The Shining",
+        "ranking": "66",
+        "ocena": "8.4",
+        "rok": "1980",
+        "rotten_tomatoes_score": "83"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "ranking": "67",
+        "ocena": "8.4",
+        "rok": "1957",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "The Great Dictator",
+        "ranking": "68",
+        "ocena": "8.4",
+        "rok": "1940",
+        "rotten_tomatoes_score": "92"
+    },
+    {
+        "title": "Aliens",
+        "ranking": "69",
+        "ocena": "8.4",
+        "rok": "1986",
+        "rotten_tomatoes_score": "98"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "ranking": "70",
+        "ocena": "8.4",
+        "rok": "2009",
+        "rotten_tomatoes_score": "89"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "ranking": "71",
+        "ocena": "8.4",
+        "rok": "2012",
+        "rotten_tomatoes_score": "87"
+    },
+    {
+        "title": "Dr",
+        "ranking": "72",
+        "ocena": "8.4",
+        "rok": "1964",
+        "rotten_tomatoes_score": null
+    },
+    {
+        "title": "American Beauty",
+        "ranking": "73",
+        "ocena": "8.3",
+        "rok": "1999",
+        "rotten_tomatoes_score": "87"
+    },
+    {
+        "title": "Oldboy",
+        "ranking": "74",
+        "ocena": "8.3",
+        "rok": "2003",
+        "rotten_tomatoes_score": "83"
+    },
+    {
+        "title": "Coco",
+        "ranking": "75",
+        "ocena": "8.4",
+        "rok": "2017",
+        "rotten_tomatoes_score": "97"
+    },
+    {
+        "title": "Amadeus",
+        "ranking": "76",
+        "ocena": "8.4",
+        "rok": "1984",
+        "rotten_tomatoes_score": "89"
+    },
+    {
+        "title": "Toy Story",
+        "ranking": "77",
+        "ocena": "8.3",
+        "rok": "1995",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "The Boat",
+        "ranking": "78",
+        "ocena": "8.4",
+        "rok": "1981",
+        "rotten_tomatoes_score": ""
+    },
+    {
+        "title": "Braveheart",
+        "ranking": "79",
+        "ocena": "8.3",
+        "rok": "1995",
+        "rotten_tomatoes_score": "76"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "ranking": "80",
+        "ocena": "8.4",
+        "rok": "2019",
+        "rotten_tomatoes_score": "94"
+    },
+    {
+        "title": "Joker",
+        "ranking": "81",
+        "ocena": "8.4",
+        "rok": "2019",
+        "rotten_tomatoes_score": "69"
+    },
+    {
+        "title": "Princess Mononoke",
+        "ranking": "82",
+        "ocena": "8.3",
+        "rok": "1997",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "Good Will Hunting",
+        "ranking": "83",
+        "ocena": "8.3",
+        "rok": "1997",
+        "rotten_tomatoes_score": "97"
+    },
+    {
+        "title": "Your Name.",
+        "ranking": "84",
+        "ocena": "8.4",
+        "rok": "2016",
+        "rotten_tomatoes_score": ""
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "ranking": "85",
+        "ocena": "8.3",
+        "rok": "1984",
+        "rotten_tomatoes_score": "87"
+    },
+    {
+        "title": "High and Low",
+        "ranking": "86",
+        "ocena": "8.4",
+        "rok": "1963",
+        "rotten_tomatoes_score": "96"
+    },
+    {
+        "title": "3 Idiots",
+        "ranking": "87",
+        "ocena": "8.4",
+        "rok": "2009",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "ranking": "88",
+        "ocena": "8.3",
+        "rok": "1952",
+        "rotten_tomatoes_score": "100"
+    },
+    {
+        "title": "Oppenheimer",
+        "ranking": "89",
+        "ocena": "8.3",
+        "rok": "2023",
+        "rotten_tomatoes_score": "93"
+    },
+    {
+        "title": "Capernaum",
+        "ranking": "90",
+        "ocena": "8.4",
+        "rok": "2018",
+        "rotten_tomatoes_score": "90"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "ranking": "91",
+        "ocena": "8.3",
+        "rok": "2000",
+        "rotten_tomatoes_score": "78"
+    },
+    {
+        "title": "Come and See",
+        "ranking": "92",
+        "ocena": "8.4",
+        "rok": "1985",
+        "rotten_tomatoes_score": "90"
+    },
+    {
+        "title": "Toy Story 3",
+        "ranking": "93",
+        "ocena": "8.3",
+        "rok": "2010",
+        "rotten_tomatoes_score": "98"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "ranking": "94",
+        "ocena": "8.3",
+        "rok": "1983",
+        "rotten_tomatoes_score": "83"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "ranking": "95",
+        "ocena": "8.3",
+        "rok": "2004",
+        "rotten_tomatoes_score": "92"
+    },
+    {
+        "title": "The Hunt",
+        "ranking": "96",
+        "ocena": "8.3",
+        "rok": "2012",
+        "rotten_tomatoes_score": null
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "ranking": "97",
+        "ocena": "8.3",
+        "rok": "1968",
+        "rotten_tomatoes_score": "92"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "ranking": "98",
+        "ocena": "8.3",
+        "rok": "1992",
+        "rotten_tomatoes_score": null
+    },
+    {
+        "title": "Ikiru",
+        "ranking": "99",
+        "ocena": "8.3",
+        "rok": "1952",
+        "rotten_tomatoes_score": "98"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "ranking": "100",
+        "ocena": "8.3",
+        "rok": "1962",
+        "rotten_tomatoes_score": "94"
+    }
+]
