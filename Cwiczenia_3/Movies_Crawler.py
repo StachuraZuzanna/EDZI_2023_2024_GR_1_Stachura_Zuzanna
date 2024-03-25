@@ -37,11 +37,16 @@ def get_text(url, base_url):
         # print( movie_data )
     return movies
 
-imdb_url = 'https://www.imdb.com/chart/top'
-rotten_tomatoes_url = 'https://www.rottentomatoes.com'
-movies_data = get_text(imdb_url, rotten_tomatoes_url)
-# Zapisz wyniki do pliku JSON
-with open('movies_data.json', 'w') as f:
-    json.dump(movies_data, f, indent=4)
-
-print("Dane zapisane do pliku 'movies_data.json'")
+def main():
+    imdb_url = 'https://www.imdb.com/chart/top'
+    rotten_tomatoes_url = 'https://www.rottentomatoes.com'
+    movies_data = get_text(imdb_url, rotten_tomatoes_url)
+    # Zapisz wyniki do pliku JSON
+    with open('movies_data.json', 'w') as f:
+        json.dump(movies_data, f, indent=4)
+    
+    print("Dane zapisane do pliku 'movies_data.json'")
+    
+if __name__ == "__main__": 
+    main()
+    
